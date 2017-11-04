@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Form</string>
+    <string name="name">Name:</string>
+    <string name="lastname">Lastname:</string>
+    <string name="age">Age:</string>
+    <string name="smoke">Smoke:</string>
+    <string name="married">Married:</string>
+    <string name="single">Single:</string>
+    <string name="show">Show</string>
+    <string name="send">Send</string>
+    <string name="yes_smoke">He smokes</string>
+    <string name="no_smoke">He do not smoke</string>
+    <string name="is_married">He is married</string>
+    <string name="is_single">He is single</string>
+</resources>
